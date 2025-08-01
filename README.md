@@ -20,7 +20,3 @@ Setup Instructions:
 3. Access the app in your browser:
    http://localhost:5000
    waitress-serve --host 127.0.0.1 --port 5000 app:app
-
-Login Credentials:
-- Username: admin
-- Password: password
